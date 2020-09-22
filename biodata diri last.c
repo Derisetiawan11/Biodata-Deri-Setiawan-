@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main (){
-	printf("\BIODATA MAHASISWA\N\N");
+	printf("BIODATA MAHASISWA\n\n");
 	printf("Nama : Deri Setiawan\n");
 	printf("Npm : 19081010013\n");
 	printf("Jurusan : teknik informatika\n");
